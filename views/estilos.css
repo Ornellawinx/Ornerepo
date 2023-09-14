@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(228, 182, 98); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: orangered;
+}
+h3{
+    color: rgb(73, 100, 109);
+}
+.azul{
+    color: red;
+}
+#pie_pagina{
+    background-color: grey;
+    color: beige;
+    height: 100px;
+}
+#verde{
+    color: rgb(36, 59, 2);
+}
+.fondo{
+    background-color: whitesmoke;
+}
+
+header{
+    background-image: url(./Imagenes/naruto\ jiraija.png);
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+}
+.menuSuperior{
+    list-style-type: none;
+    text-align: center;
+}
+.menuSuperior li{
+    display: inline-block;
+}
+.menuSuperior{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 1rem;
+}
